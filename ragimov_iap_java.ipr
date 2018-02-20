@@ -85,9 +85,7 @@
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="1.8" />
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/ragimov_iap_java" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/ragimov_iap_java/ragimov_iap_java" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/main/java/com/ragimov_iap_java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
   <component name="libraryTable">
     <library name="Maven: junit:junit:3.8.1">
