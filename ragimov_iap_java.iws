@@ -23,7 +23,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ceb8793-2044-4ead-bd67-245fc1b21b17" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ragimov_iap_java/SDifference.java" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/ragimov_iap_java/App.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ragimov_iap_java.iws" afterPath="$PROJECT_DIR$/ragimov_iap_java.iws" />
     </list>
@@ -130,7 +129,7 @@
       <file leaf-file-name="SDifference.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ragimov_iap_java/SDifference.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="-17">
               <caret line="14" column="51" lean-forward="true" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -154,7 +153,7 @@
     <option name="FORCE_PUSH_ALLOWED" value="true" />
     <push-targets>
       <push-target-info repo="$PROJECT_DIR$/ragimov_iap_java" source="master" target-remote="origin" target-branch="SimmetricDifference" />
-      <push-target-info repo="$PROJECT_DIR$" source="master" target-remote="origin" target-branch="SimmetricDifference" />
+      <push-target-info repo="$PROJECT_DIR$" source="master" target-remote="origin" target-branch="Simmetric_Difference" />
     </push-targets>
   </component>
   <component name="GradleLocalSettings">
@@ -969,7 +968,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ragimov_iap_java/SDifference.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="-17">
           <caret line="14" column="51" lean-forward="true" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
