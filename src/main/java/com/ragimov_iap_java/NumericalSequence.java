@@ -19,10 +19,10 @@ public class NumericalSequence {
             List<String> collection = new ArrayList<String>();
             List list = Arrays.asList(sr.split("\\s+"));
             Iterator<String> iterate = list.iterator();
-            int idx = 0;
+            int index = 0;
             while (iterate.hasNext()) {
                 String element = iterate.next();
-                if (idx++ % 2 == 0) continue;
+                if (index++ % 2 == 0) continue;
                 collection.add(element);
             }
             ListIterator lit = collection.listIterator(collection.size());
