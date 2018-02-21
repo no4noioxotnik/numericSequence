@@ -19,7 +19,7 @@ public class NumericalSequence {
             List<String> collection = new ArrayList<String>();
             List list = Arrays.asList(sr.split("\\s+"));
             Iterator<String> iterate = list.iterator();
-            int idx = 1;
+            int idx = 0;
             while (iterate.hasNext()) {
                 String element = iterate.next();
                 if (idx++ % 2 == 0) continue;
