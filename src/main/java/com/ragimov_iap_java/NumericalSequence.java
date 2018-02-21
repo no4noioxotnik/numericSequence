@@ -17,7 +17,6 @@ public class NumericalSequence {
         try {
             String sr = scanner.nextLine();
             List<String> collection = new ArrayList<String>();
-
             List list = Arrays.asList(sr.split("\\s+"));
             Iterator<String> iterate = list.iterator();
             int idx = 1;
@@ -32,21 +31,15 @@ public class NumericalSequence {
                 System.out.print(element + " ");
             }
         } catch (InputMismatchException e) {
-
             System.out.println("Only numbers are allowed, separated by SPACE character. Check your input.");
-
         } finally {
             Scanner ss = new Scanner(System.in);
             System.out.println("Do you want to start again? (y/n)");
             String  answer = ss.nextLine().toLowerCase();
-
             if (answer.equals("y")) {
-
                 start();
-
             } else {
-
-                return;
+              return;
             }
         }
     }

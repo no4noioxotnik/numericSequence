@@ -1,5 +1,5 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="ragimov_iap_java:jar">
+  <artifact type="jar" build-on-make="true" name="ragimov_iap_java:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/ragimov_iap_java_jar</output-path>
     <root id="archive" name="ragimov_iap_java.jar">
       <element id="module-output" name="ragimov_iap_java" />
