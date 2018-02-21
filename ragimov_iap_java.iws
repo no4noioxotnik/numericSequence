@@ -27,7 +27,8 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ceb8793-2044-4ead-bd67-245fc1b21b17" name="Default" comment="">
+    <list default="true" id="8ceb8793-2044-4ead-bd67-245fc1b21b17" name="Default" comment="exception managing added">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ragimov_iap_java/NumericalSequence.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ragimov_iap_java.iws" afterPath="$PROJECT_DIR$/ragimov_iap_java.iws" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ragimov_iap_java/SDifference.java" afterPath="$PROJECT_DIR$/src/main/java/com/ragimov_iap_java/SDifference.java" />
     </list>
